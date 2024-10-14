@@ -18,3 +18,4 @@ docs/index
 api/index
 ```
 
+obabel -:"CTCAAAATGTGCGGTGCGCGTGAGGGTGAATTACCCTTGAATACCTGGCA" -O aptamer1.pdb --gen3d
